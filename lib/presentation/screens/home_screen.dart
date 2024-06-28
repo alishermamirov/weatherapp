@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:obhavo_bloc/presentation/screens/search_screen.dart';
-import 'package:obhavo_bloc/presentation/screens/setting_screen.dart';
-import 'package:obhavo_bloc/presentation/widgets/city_weather.dart';
+import 'search_screen.dart';
+import 'setting_screen.dart';
+import '../widgets/city_weather.dart';
 
 import '../../logic/cubit/weather/weather_cubit.dart';
 

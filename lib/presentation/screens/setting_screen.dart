@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:obhavo_bloc/logic/cubit/settings/settings_cubit.dart';
+import '../../logic/cubit/settings/settings_cubit.dart';
 
 class SettingScreen extends StatelessWidget {
   const SettingScreen({super.key});

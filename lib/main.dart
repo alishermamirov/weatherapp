@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:http/http.dart';
-import 'package:obhavo_bloc/logic/cubit/settings/settings_cubit.dart';
-import 'package:obhavo_bloc/presentation/screens/search_screen.dart';
-import 'package:obhavo_bloc/presentation/screens/setting_screen.dart';
+import 'logic/cubit/settings/settings_cubit.dart';
+import 'presentation/screens/search_screen.dart';
+import 'presentation/screens/setting_screen.dart';
 import 'logic/cubit/weather/weather_cubit.dart';
 import 'logic/repositories/weather_repository.dart';
 import 'logic/services/https/weather_api_services.dart';

@@ -2,6 +2,7 @@ import 'dart:async';
 
 import 'package:bloc/bloc.dart';
 import 'package:meta/meta.dart';
+
 import '../../../data/models/weather.dart';
 import '../../repositories/weather_repository.dart';
 
